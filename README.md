@@ -1,2 +1,2 @@
 # idleaura
-Idle Aura extension extracted from Opera GX to play on any browser.
+Opera GX's Idle Aura extension exported to play on any browser.
