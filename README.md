@@ -1,3 +1,5 @@
+For the browser extension, visit: [idleaura-extension](https://github.com/Scarlaid/idleaura-extension)
+
 # idleaura
 Opera GX's Idle Aura extension exported to play on any browser.
 
